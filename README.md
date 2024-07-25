@@ -5,7 +5,7 @@
 ##### Domain: Machine Learning
 ##### Duration: June to July 2024
 ***
-### Task 2: 
+### Task 1: 
 To Develop a text-to-speech conversion application that allows users to input
 text and generate corresponding audio output. The application should
 support multiple languages and voices, providing users with options to
