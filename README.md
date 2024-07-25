@@ -1,9 +1,5 @@
 ## CODTECH---Task1
--__Name: ANUSHKA TIWARI
--__Company: CODTECH IT SOLUTIONS
--__ID: CT08DS3126
--__Domain: Machine Learning
--__Duration: June to July 2024
+- __Name: ANUSHKA TIWARI- __Company: CODTECH IT SOLUTIONS- __ID: CT08DS3126- __Domain: Machine Learning- __Duration: June to July 2024
 ***
 ### Task 2: 
 To Develop a text-to-speech conversion application that allows users to input
